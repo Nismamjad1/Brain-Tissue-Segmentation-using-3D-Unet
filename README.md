@@ -1,11 +1,5 @@
 # Tissue Segmentation Project - README
 
-**Authors:** [Your Name(s)]
-
-**Project Name:** Tissue Segmentation Project
-
-**Final Project Date:** [Date]
-
 ---
 
 ## Introduction
